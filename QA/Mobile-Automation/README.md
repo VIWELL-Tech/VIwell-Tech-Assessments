@@ -60,4 +60,4 @@ Prioritized from most important to least important, here are our evaluation crit
 
 ## How to submit your work
 
-Create a public repo on Github and push your code on it. then share the link back with the team.
+Create a public repo on Github and push your code on it. then share the link back with us.
