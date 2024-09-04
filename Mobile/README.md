@@ -48,7 +48,7 @@ Following technical requirements should be met.
 
 -   The application should take advantage of following libraries/tools.
 
-1.  React Native Cli
+1.  Expo
 
 2.  Typescript
 
